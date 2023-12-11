@@ -5,8 +5,10 @@
 My name is Eduardo, but many people know me as Fare9 (Farenain), here
 you can find some things about me.
 
-* I'm a PhD student in UC3M COSEC Lab.
+* I work as compiler engineer at Quarkslab
+* I'm almost finishing a PhD in Computer Science at UC3M.
 * My PhD is focused on security and privacy analysis on Android Ecosystem.
-* I'm learning about compiler development.
+* I have written a book about fuzzing in IoT with QEMU and AFL.
+* I'm interested in compiler technologies, specially LLVM and Java stuff too!
 * I also write tools for binary analysis.
-* I'm learning Japanese and my dream is living in Japan.
+* I have a N5 of Japanese (waiting for N4 results), and my dream is living in Japan.
