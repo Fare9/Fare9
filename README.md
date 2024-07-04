@@ -11,4 +11,4 @@ you can find some things about me.
 * I have written a book about fuzzing in IoT with QEMU and AFL.
 * I'm interested in compiler technologies, specially LLVM and Java stuff too!
 * I also write tools for binary analysis.
-* I have a N5 of Japanese (waiting for N4 results), and my dream is living in Japan.
+* I have a N5 of Japanese (and pursuing obtaining the N4), and my dream is living in Japan.
