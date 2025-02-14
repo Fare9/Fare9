@@ -6,9 +6,9 @@ My name is Eduardo, but many people know me as Fare9 (Farenain), here
 you can find some things about me.
 
 * I work as compiler engineer at Quarkslab
-* I'm almost finishing a PhD in Computer Science at UC3M.
+* I have a PhD in Computer Science from the University Carlos III of Madrid.
 * My PhD is focused on security and privacy analysis on Android Ecosystem.
 * I have written a book about fuzzing in IoT with QEMU and AFL.
 * I'm interested in compiler technologies, specially LLVM and Java stuff too!
-* I also write tools for binary analysis.
-* I have a N5 of Japanese (and pursuing obtaining the N4), and my dream is living in Japan.
+* I also write tools for binary analysis (for example, you can check: [Shuriken-Analyzer](https://github.com/Shuriken-Group/Shuriken-Analyzer)).
+* I have a N5 of Japanese (and pursuing obtaining the N3), and this 2025 I will live in Japan for some time.
