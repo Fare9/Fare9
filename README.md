@@ -1,4 +1,4 @@
-<img align="right" width="240" src="https://raw.githubusercontent.com/K0deless/k0deless.github.io/master/assets/img/others/fare9.jpeg">
+<img align="right" width="240" src="https://farena.in/assets/images/fare9.jpg">
 
 # Hello, I'm Eduardo!
 
